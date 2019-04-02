@@ -1,9 +1,9 @@
 # Youtube React Chat
-- This project is for my youtube channel: link
+- This project is for my youtube channel:
+
+[![](http://img.youtube.com/vi/lwVXHC9CLjM/0.jpg)](http://www.youtube.com/watch?v=lwVXHC9CLjM "")
 
 ## Usage
-
-### `npm start`
 
 Install all dependencies
 ```sh
